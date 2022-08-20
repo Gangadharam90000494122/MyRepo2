@@ -1,4 +1,5 @@
 <package.xml>
 <member>Account</member>
+<member>Contact</member>
 <Name>Object</Name>
 </package.xml>
